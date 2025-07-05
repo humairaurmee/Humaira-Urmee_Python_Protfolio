@@ -1346,11 +1346,6 @@ else:
 
     atleast one part is true
 
-
-
-```python
-import numpy
-```
 # Making_Choice_2
 
 
