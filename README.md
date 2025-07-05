@@ -1242,7 +1242,7 @@ for filename in filenames:
 
 
 ![png](output_2_5.png)
-# Making_Choices
+# Making Choices
 ```python
 num = 37
 if num > 100:
@@ -1303,7 +1303,7 @@ else:
 ```
 
     atleast one part is true
-# Making_Choices_2
+# Making Choices 2
 
 
 ```python
@@ -2023,10 +2023,7 @@ def std_dev(sample):
     return numpy.sqrt(sum_squared_devs / (len(sample) - 1))
                                                     
 ```
-
-
 # Defensive Programming
-
 ```python
 numbers = [1.5, 2.3, 0.7, -0.001, 4.4]
 total = 0.0
@@ -2140,8 +2137,7 @@ print(normalize_rectangle((0.0, 0.0, 1.0, 5.0)))
 
 ```python
 print(normalize_rectangle((0.0, 0.0, 5.0, 1.0)))
-
-
+```
 # Transcribing DNA into RNA (Coronavirus)
 ```python
 # prompt the user to enter the input fasta file name
