@@ -623,6 +623,7 @@ print('weight in killograms is now:', weight_kg)
 
     weight in killograms is now: 65.0
 # Analyzing Patient Data (1, 2 and 3)
+## In this analysis we looked at inflammation data for multiple patients.
 ```python
 import numpy
 ```
