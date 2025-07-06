@@ -1230,10 +1230,6 @@ for filename in filenames:
 
 
 
-    
-
-
-
 ![png](output_2_3.png)
 
 
