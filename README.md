@@ -2136,6 +2136,7 @@ print(normalize_rectangle((0.0, 0.0, 1.0, 5.0)))
 print(normalize_rectangle((0.0, 0.0, 5.0, 1.0)))
 ```
 # Transcribing DNA into RNA (Coronavirus)
+## In this we exploring Coronavirus Genetic Data
 ```python
 # prompt the user to enter the input fasta file name
 
@@ -2206,7 +2207,7 @@ print(len(rna_sequence))
     32535
 
 # Translating RNA into Protein (Coronavirus)
-
+## In this we looked at Coronavirus Decoding Genetic Data
 ```python
 # Prompt the user to enter the input fasta file name
 
